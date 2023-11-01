@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="MenghitungGajiKaryawan.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="24"/>
+      </Unit>
+      <Unit>
+        <Filename Value="no1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="No1"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="74"/>
+        <CursorPos X="6" Y="101"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="57" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="61" Column="21" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="57" Column="7" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="59" Column="12" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="57" Column="7" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="61" Column="12" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="59" Column="12" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="57" Column="7" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="59" Column="12" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="57" Column="7" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="59" Column="12" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="57" Column="7" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="66" Column="44" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="60" Column="35" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="72" Column="3" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="52" Column="4" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="74" Column="3" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="85" Column="3" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="109" Column="7" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="66" Column="4" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="64" Column="3" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="89" Column="19" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="90" Column="20" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="50" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="85" Column="14" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="50" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="98" Column="18" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="90" Column="37" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="55" Column="23" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="no1.pas"/>
+        <Caret Line="9" Column="3"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
